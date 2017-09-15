@@ -1,0 +1,5 @@
+# Bluetooth
+BOARD_HAS_QCA_BT_ROME := true
+BOARD_HAVE_BLUETOOTH_QCOM := true
+BLUETOOTH_HCI_USE_MCT := true
+QCOM_BT_USE_SMD_TTY := true

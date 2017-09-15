@@ -1,0 +1,6 @@
+# Charger
+BOARD_CHARGER_DISABLE_INIT_BLANK := true
+BOARD_CHARGER_ENABLE_SUSPEND := true
+
+# LineageOS Custom Charger
+WITH_LINEAGE_CHARGER := false
